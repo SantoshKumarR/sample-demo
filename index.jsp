@@ -1,3 +1,3 @@
 <html>
-    <p>Welcome to NEXT org.</p>
+    <p>Welcome to NEXT org.(sk)</p>
 </html>
